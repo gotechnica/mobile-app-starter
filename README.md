@@ -10,3 +10,4 @@ This is a sample mobile app that lets us practice setting up React Native apps f
 4. Install expo globally with `npm i -g expo-cli`
 5. In the repo, run `npm i` to install the required dependencies
 6. Run the app with `yarn ios`
+7. Download the [expo client](https://apps.apple.com/us/app/expo-client/id982107779) on your phone to test the application.
